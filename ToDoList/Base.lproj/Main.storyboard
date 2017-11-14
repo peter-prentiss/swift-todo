@@ -56,9 +56,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hg5-jO-9bV">
-                                <rect key="frame" x="164" y="191" width="46" height="30"/>
+                                <rect key="frame" x="154" y="191" width="67" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Complete"/>
                                 <connections>
                                     <action selector="buttonTapped:" destination="N0F-Wj-UYg" eventType="touchUpInside" id="2zM-Rs-Jys"/>
                                 </connections>
